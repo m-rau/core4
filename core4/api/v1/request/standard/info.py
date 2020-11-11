@@ -77,7 +77,7 @@ class InfoHandler(CoreRequestHandler):
             >>> rv.json()
 
         Methods:
-            GET /core4/api/v1/_info?tag- list of use API endpoint tags
+            GET /core4/api/v1/_info?tag - list of used API endpoint tags
 
         Parameters:
             None
